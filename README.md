@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **kerollos.zaher@gmail.com**
 
+![GitHub](https://user-images.githubusercontent.com/32653576/164892058-38f79d03-b951-4e0b-8fa7-93db0504db13.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kerozaher_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kerozaher_" height="30" width="40" /></a>
