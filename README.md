@@ -3,10 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/kerozaher_" target="blank"><img src="https://img.shields.io/twitter/follow/kerozaher_?logo=twitter&style=for-the-badge" alt="kerozaher_" /></a> </p>
 
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **kerollos.zaher@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kerozaher_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kerozaher_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kerollos zaher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerollos zaher" height="30" width="40" /></a>
+<a href="https://instagram.com/kero.zaher_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kero.zaher_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
